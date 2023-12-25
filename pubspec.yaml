@@ -1,0 +1,50 @@
+name: flutter_application_1_connect_server
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.1+1
+
+environment:
+  sdk: '>=3.2.0-134.1.beta <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  multiple_images_picker: ^1.0.1
+  http: ^1.1.0
+  get: ^4.6.6
+  connectivity_plus: ^5.0.2
+  page_transition: ^2.1.0
+  lottie: ^2.7.0
+  
+  # Firebase 
+  google_sign_in: ^5.2.1
+  firebase_auth: ^4.6.3
+  firebase_core: ^2.24.2
+  # flutter_facebook_auth: ^6.0.3
+
+  # Fiture
+  # tflite_flutter: ^0.10.4
+  # exif: ^3.3.0
+  flutter_tflite: ^1.0.1
+  quiver: ^3.2.1
+  image: ^3.3.0
+  camera: ^0.10.5+7
+  image_picker: ^0.8.5+3
+  path_provider: ^2.1.1
+  permission_handler: ^11.0.1
+  
+  path: ^1.8.2
+  google_mlkit_object_detection: ^0.7.0
+  google_mlkit_commons: ^0.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+   - lib/images/
+   - assets/models/
+   - assets/ml/ 

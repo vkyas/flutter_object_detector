@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "184221996763",
+    "project_id": "authfirebase-15cb8",
+    "storage_bucket": "authfirebase-15cb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184221996763:android:8d7b029b8e116b30e41efe",
+        "android_client_info": {
+          "package_name": "com.chz.gpt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184221996763-ahq6dt4ivg7trme3esvd344spivg6ou5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxyFLJgysk1foYQhm5jRIgjudw8--JFm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184221996763-ahq6dt4ivg7trme3esvd344spivg6ou5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
